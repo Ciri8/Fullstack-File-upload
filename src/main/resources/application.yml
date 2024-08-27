@@ -1,0 +1,6 @@
+server:
+  port: 6969
+
+spring:
+  main:
+    web-application-type: servlet
